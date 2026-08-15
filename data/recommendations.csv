@@ -1,0 +1,25 @@
+store_id,product_id,product_name,category,avg_forecast_daily_units,recommended_reorder_qty,peak_demand_date,peak_demand_units,action
+S01,P01,Instant Coffee 200g,Beverages,65.1,562,2026-01-03,95.8,Reorder ~562 units before 2026-01-05 to cover lead time + safety stock.
+S01,P02,Basmati Rice 5kg,Staples,70.6,575,2026-01-03,88.7,Reorder ~575 units before 2026-01-05 to cover lead time + safety stock.
+S01,P03,Toothpaste 150g,Personal Care,46.5,401,2026-01-04,59.3,Reorder ~401 units before 2026-01-05 to cover lead time + safety stock.
+S01,P04,Cooking Oil 1L,Staples,65.2,559,2026-01-03,87.3,Reorder ~559 units before 2026-01-05 to cover lead time + safety stock.
+S01,P05,Notebook A4 (Pack of 5),Stationery,28.3,246,2026-01-03,35.9,Reorder ~246 units before 2026-01-05 to cover lead time + safety stock.
+S01,P06,LED Bulb 9W,Home,38.5,323,2026-01-03,46.9,Reorder ~323 units before 2026-01-05 to cover lead time + safety stock.
+S01,P07,Biscuits Family Pack,Snacks,82.6,728,2026-01-03,115.4,Reorder ~728 units before 2026-01-05 to cover lead time + safety stock.
+S01,P08,Detergent Powder 1kg,Home,52.4,465,2026-01-03,76.9,Reorder ~465 units before 2026-01-05 to cover lead time + safety stock.
+S02,P01,Instant Coffee 200g,Beverages,69.8,618,2026-01-03,99.2,Reorder ~618 units before 2026-01-05 to cover lead time + safety stock.
+S02,P02,Basmati Rice 5kg,Staples,84.3,696,2026-01-04,100.7,Reorder ~696 units before 2026-01-05 to cover lead time + safety stock.
+S02,P03,Toothpaste 150g,Personal Care,51.0,443,2026-01-04,70.7,Reorder ~443 units before 2026-01-05 to cover lead time + safety stock.
+S02,P04,Cooking Oil 1L,Staples,64.6,572,2026-01-04,92.6,Reorder ~572 units before 2026-01-05 to cover lead time + safety stock.
+S02,P05,Notebook A4 (Pack of 5),Stationery,28.5,239,2026-01-03,36.8,Reorder ~239 units before 2026-01-05 to cover lead time + safety stock.
+S02,P06,LED Bulb 9W,Home,31.4,262,2026-01-04,40.6,Reorder ~262 units before 2026-01-05 to cover lead time + safety stock.
+S02,P07,Biscuits Family Pack,Snacks,86.5,717,2026-01-03,98.5,Reorder ~717 units before 2026-01-05 to cover lead time + safety stock.
+S02,P08,Detergent Powder 1kg,Home,37.3,316,2026-01-03,49.6,Reorder ~316 units before 2026-01-05 to cover lead time + safety stock.
+S03,P01,Instant Coffee 200g,Beverages,60.3,542,2026-01-03,87.6,Reorder ~542 units before 2026-01-05 to cover lead time + safety stock.
+S03,P02,Basmati Rice 5kg,Staples,67.9,581,2026-01-03,97.0,Reorder ~581 units before 2026-01-05 to cover lead time + safety stock.
+S03,P03,Toothpaste 150g,Personal Care,42.1,359,2026-01-03,54.9,Reorder ~359 units before 2026-01-05 to cover lead time + safety stock.
+S03,P04,Cooking Oil 1L,Staples,53.5,387,2026-01-10,68.2,Reorder ~387 units before 2026-01-05 to cover lead time + safety stock.
+S03,P05,Notebook A4 (Pack of 5),Stationery,22.0,182,2026-01-03,29.4,Reorder ~182 units before 2026-01-05 to cover lead time + safety stock.
+S03,P06,LED Bulb 9W,Home,34.2,306,2026-01-03,48.5,Reorder ~306 units before 2026-01-05 to cover lead time + safety stock.
+S03,P07,Biscuits Family Pack,Snacks,69.5,592,2026-01-03,87.4,Reorder ~592 units before 2026-01-05 to cover lead time + safety stock.
+S03,P08,Detergent Powder 1kg,Home,37.2,324,2026-01-03,50.8,Reorder ~324 units before 2026-01-05 to cover lead time + safety stock.

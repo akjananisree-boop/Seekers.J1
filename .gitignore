@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Generated model outputs (keep sample outputs committed, but ignore reruns if large)
+# Uncomment below if you don't want to track regenerated forecast files:
+# data/forecast_output.csv
+# data/model_metrics.csv
+# data/recommendations.csv
+
+# Secrets
+.env
+*.pem
