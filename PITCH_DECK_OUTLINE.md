@@ -7,7 +7,7 @@ Use this as your slide-by-slide script. Aim for ~10 slides, 3-minute demo video.
 **Slide 1 — Title**
 AI-Powered Demand Forecasting
 Decision Intelligence Track · Exasol AI Build Challenge 2026
-Team: [your names]
+Team: [JANANISREE A K,KALAIVANI G,MANJASHREE P A,MADHUMITHRA A]
 
 **Slide 2 — The Problem**
 - Retailers over-order slow movers, stock out on fast movers
@@ -49,8 +49,8 @@ Exasol Personal → in-database views → Python ML layer → dashboard
 - Global model with store/product embeddings for faster scale-up
 
 **Slide 10 — Thank You / Q&A**
-GitHub repo: [your link]
-Team: [names, contact]
+GitHub repo: [https://github.com/akjananisree-boop/Seekers.J1]
+Team: [Seekers]
 
 ---
 
