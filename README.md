@@ -148,11 +148,11 @@ data → prediction → action loop the track calls for.
 
 ## Team
 
-Team Name:Seekers
+Team Name:Seekers,
 Team Members:
-JANANISREE A K
-KALAIVANI G
-MANJASHREE P A
+JANANISREE A K,
+KALAIVANI G,
+MANJASHREE P A,
 MADHUMITHRA A
 
 
