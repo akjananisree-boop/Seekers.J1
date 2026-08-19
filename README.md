@@ -148,7 +148,13 @@ data → prediction → action loop the track calls for.
 
 ## Team
 
-_(add your team name and member names here before submitting)_
+Team Name:Seekers
+Team Members:
+JANANISREE A K
+KALAIVANI G
+MANJASHREE P A
+MADHUMITHRA A
+
 
 ## Next Steps / Roadmap
 
