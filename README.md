@@ -2,6 +2,7 @@
 
 **Track:** Decision Intelligence
 **Primary data platform:** Exasol Personal
+## Demo Video\nhttps://drive.google.com/file/d/1MMJv9fxH-6Ge76XSTIzQPRTPskAbgXbb/view?usp=drivesdk
 
 ## The Problem
 
